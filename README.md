@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Swift-3DDC84?style=flat-square&logo=Swift&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaKim&show_icons=true&theme=radical)

@@ -26,6 +26,3 @@ iOS 개발을 하고 있습니다. 쉬운 유지보수가 가능한 코드 작�
 Zeplin, Figma, Jira등을 이용해서 디자이너, PM 등과 함께 협업해본 경험이 있습니다. 미국에서 10년 이상을 살았기에 영어 문서를 읽는 것이 자유롭습니다.
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaKim)](https://github.com/umaKim/github-readme-stats) -->
-
-### My previous repository
-https://gitlab.com/yokim1

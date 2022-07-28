@@ -27,5 +27,5 @@ Zeplin, Figma, Jira등을 이용해서 디자이너, PM 등과 함께 협업해�
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaKim)](https://github.com/umaKim/github-readme-stats) -->
 
-< ### My previous repository
-< https://gitlab.com/yokim1
+### My previous repository
+https://gitlab.com/yokim1

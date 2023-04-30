@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <!-- <p align="center"> -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=C++&logoColor=white"/>
 
-<a href = "[https://umakim.github.io/html-portfolio/](https://glen-denim-7be.notion.site/96009707b70d4bf3a12c5d208c05c55e)"> Resume Website <a/>
+
+<a href = "https://glen-denim-7be.notion.site/96009707b70d4bf3a12c5d208c05c55e"> Resume Website <a/>
 
   
 iOS 개발을 하고 있습니다. 쉬운 유지보수가 가능한 코드 작성과 확장성 있는 구조를 만드는 것이 곧 성능과 직결된다라고 믿고 있습니다. 이를 위해서 협업하는 동료가 글을 읽듯이 읽을 수 있는 코드를 추구합니다. 로직단에서는 기업의 유지 보수 비용이 낮아질 수 있는 코드 구조를 고민합니다.

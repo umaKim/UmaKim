@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=C++&logoColor=white"/>
 
 <a href = "https://www.notion.so/I-am-YoonSuk-Kim-a-developer-who-constantly-strives-for-growth-958a88e2e6df408cae92b2008f1a1231?pvs=4"> Resume Website(English Ver.) <a/>
+
 <a href = "https://glen-denim-7be.notion.site/96009707b70d4bf3a12c5d208c05c55e"> Resume Website(Korean Ver.) <a/>
 
 I am currently working on iOS development. I believe that writing code that is easy to maintain and has a scalable structure is directly related to performance. To achieve this, I strive to write code that can be read like a document by my collaborating colleagues. On the logic side, I consider code structures that can reduce the maintenance costs for companies.
